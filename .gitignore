@@ -1,0 +1,90 @@
+### OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+oid-venv/
+
+### Packaging / Build Artifacts
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+
+### Coverage / Reports
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+### Jupyter
+.ipynb_checkpoints/
+
+### Node (just in case)
+node_modules/
+
+### Secrets / Env
+.env
+.env.*
+*.env
+
+### Machine Learning Artifacts
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.engine
+*.trt
+*.tflite
+*.mlmodel
+
+### Logs / Temp
+*.log
+logs/
+tmp/
+temp/
+
+### Project-specific (data & outputs)
+simple_images/
+archive1/
+OIDv4_ToolKit/OID/
+OIDv4_ToolKit/OUTPUT/
+# Keep trained models but exclude training logs and intermediate files
+custom_yolo_train/runs/*/args.yaml
+custom_yolo_train/runs/*/results.csv
+custom_yolo_train/runs/*/results.png
+custom_yolo_train/runs/*/train_batch*.jpg
+custom_yolo_train/runs/*/val_batch*.jpg
+custom_yolo_train/runs/*/labels.jpg
+custom_yolo_train/runs/*/confusion_matrix*.png
+custom_yolo_train/runs/*/Box*.png
+custom_yolo_train/runs/*/PR_curve.png
+custom_yolo_train/runs/*/F1_curve.png
+custom_yolo_train/runs/*/P_curve.png
+custom_yolo_train/runs/*/R_curve.png
+# Keep runs/detect/ for inference results
+runs/detect/*/
+custom_yolo_train/images/
+custom_yolo_train/labels/
+
