@@ -1,0 +1,197 @@
+Tomato
+Cherry tomato
+Potato
+Sweet potato
+Carrot
+Onion
+Red onion
+Garlic
+Cabbage
+Lettuce
+Romaine
+Spinach
+Chicory
+Broccoli
+Cauliflower
+Cucumber
+Zucchini
+Eggplant
+Pumpkin
+Radish
+Green onion
+Leek
+Chili pepper
+Bell pepper
+Mushroom
+King oyster mushroom
+Shiitake
+Enoki
+Corn
+Peas
+Soybean sprout
+Bean
+Bean sprout
+Okra
+Asparagus
+Seaweed
+Brown seaweed
+Kimchi
+Napa cabbage
+Perilla leaf
+Basil
+Parsley
+Cilantro
+Ginger
+Lotus root
+Burdock
+Avocado
+Celery
+Beet
+Artichoke
+Turnip
+Garland chrysanthemum
+Egg
+Quail egg
+Milk
+Butter
+Cheese
+Yogurt
+Cream
+Beef
+Ground beef
+Pork
+Pork belly
+Ham
+Bacon
+Sausage
+Chicken
+Chicken breast
+Chicken drumstick
+Duck
+Lamb
+Turkey
+Salmon
+Tuna
+Mackerel
+Sardine
+Anchovy
+Eel
+Shrimp
+Squid
+Octopus
+Crab
+Lobster
+Clam
+Mussel
+Scallop
+Oyster
+Cod
+Pollock
+Fishcake
+Fish
+Surimi
+Tofu
+Fried tofu
+Tempeh
+Spam
+Egg toast
+Anchovy broth pack
+Rice
+Cooked rice
+Brown rice
+Barley
+Millet
+Quinoa
+Oats
+Bread
+Toast
+Bagel
+Pasta
+Spaghetti
+Noodles
+Udon
+Ramen
+Soba
+Vermicelli
+Rice cake
+Tortilla
+Flour
+Corn flour
+Breadcrumbs
+Cereal
+Granola
+Sugar
+Salt
+Pepper
+Ketchup
+Mayonnaise
+Soy sauce
+Gochujang
+Doenjang
+Vinegar
+Sesame oil
+Olive oil
+Canola oil
+Honey
+Jam
+Peanut butter
+Miso
+Apple
+apple
+apple
+Pear
+pear
+Banana
+Grapes
+grape
+Strawberry
+Blueberry
+Raspberry
+Blackberry
+Cherry
+Peach
+White peach
+Nectarine
+Plum
+Apricot
+Persimmon
+Pineapple
+Watermelon
+Melon
+Cantaloupe
+Papaya
+Mango
+Orange
+Tangerine
+Mandarin
+Lemon
+Lime
+Grapefruit
+Avocado
+Kiwi
+Pomegranate
+Coconut
+Fig
+Lychee
+Longan
+Durian
+Passion fruit
+Jackfruit
+Dragon fruit
+Star fruit
+Guava
+Date
+Mulberry
+Cranberry
+Gooseberry
+Olive
+Currant
+Quince
+Jujube
+Loquat
+Breadfruit
+Soursop
+Rambutan
+Snake fruit
+Sugar apple
+Cashew apple

@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/val
+test: ./images/test
+
+nc: 93
+names: ['coconut', 'apple', 'asparagus', 'avocado', 'bagel', 'banana', 'basil', 'bell_pepper', 'blueberry', 'broccoli', 'brown_seaweed', 'burdock', 'cabbage', 'carrot', 'cauliflower', 'celery', 'cherry_tomato', 'chicken_drumstick', 'chicory', 'chili_pepper', 'cilantro', 'clove_garlic', 'corn', 'cucumber', 'dragon_fruit', 'egg', 'eggplant', 'enoki', 'fig', 'garlic', 'ginger', 'grape', 'green_onion', 'kelp', 'kim', 'kimchi', 'king_oyster_mushroom', 'kiwi', 'lemon', 'lettuce', 'lime', 'lotus_root', 'mango', 'melon', 'mushroom', 'mussel', 'napa_cabbage', 'okra', 'onion', 'orange', 'paprika', 'parsley', 'peach', 'pear', 'peas', 'perilla_leaf', 'pineapple', 'pomegranate', 'pork', 'potato', 'pumpkin', 'quinoa', 'radish', 'raspberry', 'red_onion', 'rhh', 'rice', 'romaine', 'salmon', 'sausage', 'scallop', 'seaweed', 'shiitake', 'shrimp', 'soy_bean', 'soy_sauce', 'soybean_sprout', 'spam', 'spinach', 'squid', 'strawberry', 'surimi', 'sweet_potato', 'tangerine', 'tempeh', 'tomato', 'tortilla', 'turnip', 'watermelon', 'zucchini', 'grape_fruit', 'milk', 'oyster']
