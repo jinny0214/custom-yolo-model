@@ -68,6 +68,7 @@ temp/
 ### Project-specific (data & outputs)
 simple_images/
 archive1/
+OIDv4_ToolKit/
 OIDv4_ToolKit/OID/
 OIDv4_ToolKit/OUTPUT/
 # Keep trained models but exclude training logs and intermediate files
