@@ -50,7 +50,7 @@ node_modules/
 *.env
 
 ### Machine Learning Artifacts
-*.pt
+# *.pt
 *.pth
 *.onnx
 *.ckpt
